@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BEJ_C14_S1_Auth1/BEJ_C14_S1_Auth1.iml" filepath="$PROJECT_DIR$/BEJ_C14_S1_Auth1/BEJ_C14_S1_Auth1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C13_S3_MongoDemo/C13_S3_MongoDemo/C13_S3_MongoDemo.iml" filepath="$PROJECT_DIR$/C13_S3_MongoDemo/C13_S3_MongoDemo/C13_S3_MongoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bej_c14_s1_auth-master.iml" filepath="$PROJECT_DIR$/.idea/bej_c14_s1_auth-master.iml" />
+    </modules>
+  </component>
+</project>
